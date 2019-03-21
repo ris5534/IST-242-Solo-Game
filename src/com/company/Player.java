@@ -11,6 +11,10 @@ public class Player{
         this.health = health;
     }
 
-    public String setName() {return name;}
-    public String getName() {return name;}
+    public String setName() {
+        return name;
+    }
+    public String getName() {
+        return name;
+    }
 }
